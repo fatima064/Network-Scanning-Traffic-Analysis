@@ -66,11 +66,13 @@ Shows unencrypted request data including GET method and host.
 
 ![HTTP Packet](screenshots/http.png)
 
-##Project done by 
-**FATIMA FAHEEM **
-What I Learned
-how to check and analyze network traffic
-Practical understanding of network scanning
-Ability to analyze real-time traffic
-Difference between secure and insecure protocols
-Basic understanding of network security risks
+---
+
+## 🧠 What I Learned
+- How to check and analyze network traffic  
+- Practical understanding of network scanning  
+- Ability to analyze real-time traffic
+
+## Project done by
+**Fatima Faheem**
+
