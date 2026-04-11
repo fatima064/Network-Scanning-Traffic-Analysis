@@ -1,7 +1,7 @@
 # Network-Scanning-Traffic-Analysis (using Nmap And wiresharks)
 cybersecurity project -1 
 
-In this porject i came to learn about the way that how we uses nmap and wireshark to scan and see different ports , identify and understand the communications protocol and detect possible vulnerability that may occur.
+In this project i came to learn about the way that how we uses nmap and wireshark to scan and see different ports , identify and understand the communications protocol and detect possible vulnerability that may occur.
 
 OBJECTIVE OF THIS PROJECT :-
 To analyze network behavior by scanning open ports and capturing live traffic to understand communication protocols and potential security risks.
