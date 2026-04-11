@@ -6,19 +6,44 @@ In this porject i came to learn about the way that how we uses nmap and wireshar
 OBJECTIVE OF THIS PROJECT :-
 To analyze network behavior by scanning open ports and capturing live traffic to understand communication protocols and potential security risks.
 
-TOOLS USED :- 
-Nmap
-Wireshark
+## 🛠️ Tools Used
+- Nmap (Network Scanning)
+- Wireshark (Packet Analysis)
 
-📊 Key Findings
-Open ports detected:
-135 (MSRPC)
-445 (SMB)
-Protocols observed:
-TCP (major communication protocol)
-DNS (domain resolution)
-HTTP (unencrypted traffic)
-TLSv1.3 (secure encrypted communication)
+---
+
+## 🔍 Methodology
+
+### 1. Network Scanning
+- Performed a scan on the local system using Nmap
+- Identified open ports and associated services
+
+### 2. Traffic Capture
+- Captured live network traffic using Wireshark
+- Generated traffic through web browsing activity
+
+### 3. Traffic Analysis
+- Applied filters such as:
+  - DNS (Domain resolution)
+  - TCP (Connection-based communication)
+  - HTTP (Unencrypted web traffic)
+- Inspected packet-level details such as GET requests and host information
+
+---
+
+## 📊 Key Findings
+
+### 🔓 Open Ports Identified
+- **135 (MSRPC)** – Used for Windows services communication
+- **445 (SMB)** – Used for file sharing (potential attack vector)
+
+### 🌐 Protocols Observed
+- **TCP** – Primary communication protocol
+- **DNS** – Domain name resolution
+- **HTTP** – Unencrypted web traffic
+- **TLSv1.3** – Secure encrypted communication
+
+---
 
 ⚠️ Security Insights
 Open ports can act as entry points for attackers
