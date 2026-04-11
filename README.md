@@ -66,6 +66,8 @@ Shows unencrypted request data including GET method and host.
 
 ![HTTP Packet](screenshots/http.png)
 
+##Project done by 
+**FATIMA FAHEEM **
 What I Learned
 how to check and analyze network traffic
 Practical understanding of network scanning
