@@ -26,6 +26,21 @@ SMB (Port 445) is commonly targeted in cyber attacks
 HTTP traffic is not secure and can expose sensitive data
 TLS encryption ensures secure communication
 
+### Nmap Scan Result
+Shows open ports (135, 445) and running services.
+
+![Nmap Scan](screenshots/nmap_scan.png)
+
+### TCP Traffic Analysis
+Displays communication between system and external servers.
+
+![TCP Traffic](screenshots/tcp.png)
+
+### HTTP Packet Inspection
+Shows unencrypted request data including GET method and host.
+
+![HTTP Packet](screenshots/http.png)
+
 What I Learned
 how to check and analyze network traffic
 Practical understanding of network scanning
