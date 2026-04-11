@@ -29,7 +29,7 @@ TLS encryption ensures secure communication
 ### Nmap Scan Result
 Shows open ports (135, 445) and running services.
 
-![Nmap Scan](screenshots/nmap_scan.png)
+![Nmap Scan](screenshots/nmap.png)
 
 ### TCP Traffic Analysis
 Displays communication between system and external servers.
