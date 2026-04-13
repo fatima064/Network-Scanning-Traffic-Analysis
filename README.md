@@ -12,7 +12,7 @@ To analyze network behavior by scanning open ports and capturing live traffic to
 
 ---
 
-## 🔍 Methodology
+##  Methodology
 
 ### 1. Network Scanning
 - Performed a scan on the local system using Nmap
@@ -31,21 +31,20 @@ To analyze network behavior by scanning open ports and capturing live traffic to
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
-### 🔓 Open Ports Identified
+###  Open Ports Identified
 - **135 (MSRPC)** – Used for Windows services communication
 - **445 (SMB)** – Used for file sharing (potential attack vector)
 
-### 🌐 Protocols Observed
+###  Protocols Observed
 - **TCP** – Primary communication protocol
 - **DNS** – Domain name resolution
 - **HTTP** – Unencrypted web traffic
 - **TLSv1.3** – Secure encrypted communication
 
 ---
-
-⚠️ Security Insights
+Security Insights
 Open ports can act as entry points for attackers
 SMB (Port 445) is commonly targeted in cyber attacks
 HTTP traffic is not secure and can expose sensitive data
@@ -68,7 +67,7 @@ Shows unencrypted request data including GET method and host.
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 - How to check and analyze network traffic  
 - Practical understanding of network scanning  
 - Ability to analyze real-time traffic
