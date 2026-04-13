@@ -6,7 +6,7 @@ In this project i came to learn about the way that how we uses nmap and wireshar
 OBJECTIVE OF THIS PROJECT :-
 To analyze network behavior by scanning open ports and capturing live traffic to understand communication protocols and potential security risks.
 
-## 🛠️ Tools Used
+## Tools Used
 - Nmap (Network Scanning)
 - Wireshark (Packet Analysis)
 
