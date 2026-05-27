@@ -10,7 +10,6 @@ To analyze network behavior by scanning open ports and capturing live traffic to
 - Nmap (Network Scanning)
 - Wireshark (Packet Analysis)
 
----
 
 ##  Methodology
 
