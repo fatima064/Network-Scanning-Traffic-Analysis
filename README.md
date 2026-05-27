@@ -73,6 +73,4 @@ Shows unencrypted request data including GET method and host.
 - Practical understanding of network scanning  
 - Ability to analyze real-time traffic
 
-## Project done by
-**Fatima Faheem**
 
