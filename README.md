@@ -66,7 +66,39 @@ Shows unencrypted request data including GET method and host.
 
 ![HTTP Packet](screenshots/http.png)
 
----
+### Real-World Applications & Usefulness
+
+- Network Security Monitoring
+
+Security teams can use tools like Nmap to discover devices, open ports, and running services within a network. This helps identify unnecessary or exposed services that could increase security risks.
+
+- Vulnerability Identification
+
+Open ports and exposed services can be investigated to determine whether they are properly configured and whether they have known security vulnerabilities.
+
+- Incident Detection
+
+Wireshark can help security professionals inspect network packets and identify unusual connections, unexpected traffic, or suspicious communication that may indicate a security incident.
+
+- Protocol Analysis
+
+Analyzing protocols such as DNS, TCP, HTTP, and TLS helps security professionals understand how systems communicate and how data moves across a network.
+
+- Data Security
+
+Analyzing HTTP traffic demonstrates the risks of transmitting information without encryption, while TLS traffic demonstrates how encryption helps protect data during transmission.
+
+- Network Troubleshooting
+
+Nmap and Wireshark are also useful for troubleshooting network connectivity issues, identifying communication problems, and understanding how devices interact within a network.
+
+### Overall Usefulness
+- Network Security
+- Security Operations Center (SOC)
+- Vulnerability Assessment
+- Penetration Testing
+- Incident Response
+- Network Administration
 
 ## What I Learned
 - How to check and analyze network traffic  
