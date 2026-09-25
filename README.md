@@ -47,7 +47,7 @@ To analyze network behavior by scanning open ports and capturing live traffic to
 ---
 Security Insights
 Open ports can act as entry points for attackers
-SMB (Port 445) is commonly targeted in cyber attacks
+SMB (Port 445) is commonly targeted in cyber attack
 HTTP traffic is not secure and can expose sensitive data
 TLS encryption ensures secure communication
 
